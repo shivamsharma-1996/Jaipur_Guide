@@ -1,6 +1,6 @@
 # Jaipur_Guide
-It is an Android App provided with famous Tourist place of Jaipur.
-It enables end-user:
-•	To search tourist places of jaipur in list.
-• Tp View images, & Read information of Selected Places.
-•	To know "Distance" & "Duration" betweeen "Selected Place" & Railway Station/Bus Stand/Airport.
+An Android App that makes easy to visit Jaipur City.
+
+Features:
+• Providing information related to visiting places to Visitors
+•	Providing "Distance" & "Duration" betweeen "Tourist Place" & Railway Station/Bus Stand/Airport.
